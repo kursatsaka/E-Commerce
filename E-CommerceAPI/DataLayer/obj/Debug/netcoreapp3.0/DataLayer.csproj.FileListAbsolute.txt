@@ -1,0 +1,17 @@
+C:\PersonalProjects\ShopProjectAPI\DataLayer\bin\Debug\netcoreapp3.0\DataLayer.deps.json
+C:\PersonalProjects\ShopProjectAPI\DataLayer\bin\Debug\netcoreapp3.0\DataLayer.dll
+C:\PersonalProjects\ShopProjectAPI\DataLayer\bin\Debug\netcoreapp3.0\DataLayer.pdb
+C:\PersonalProjects\ShopProjectAPI\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.csprojAssemblyReference.cache
+C:\PersonalProjects\ShopProjectAPI\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.AssemblyInfoInputs.cache
+C:\PersonalProjects\ShopProjectAPI\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.AssemblyInfo.cs
+C:\PersonalProjects\ShopProjectAPI\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.dll
+C:\PersonalProjects\ShopProjectAPI\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.pdb
+C:\Users\Kürşat\Desktop\ShopProjectAPI\DataLayer\bin\Debug\netcoreapp3.0\DataLayer.deps.json
+C:\Users\Kürşat\Desktop\ShopProjectAPI\DataLayer\bin\Debug\netcoreapp3.0\DataLayer.dll
+C:\Users\Kürşat\Desktop\ShopProjectAPI\DataLayer\bin\Debug\netcoreapp3.0\DataLayer.pdb
+C:\Users\Kürşat\Desktop\ShopProjectAPI\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.csprojAssemblyReference.cache
+C:\Users\Kürşat\Desktop\ShopProjectAPI\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Kürşat\Desktop\ShopProjectAPI\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Kürşat\Desktop\ShopProjectAPI\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.AssemblyInfo.cs
+C:\Users\Kürşat\Desktop\ShopProjectAPI\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.dll
+C:\Users\Kürşat\Desktop\ShopProjectAPI\DataLayer\obj\Debug\netcoreapp3.0\DataLayer.pdb

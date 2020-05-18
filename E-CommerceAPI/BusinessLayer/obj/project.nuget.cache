@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AoI4M9kM6esYCDEy5OFPiR8gvZ0XUE2QvuE17r3pYBjNJ6BJYeNCnOIMQq9Miq+Qt+ym2UYuT21+wSEJO56rKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kürşat\\Desktop\\ShopProjectAPI\\BusinessLayer\\BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kürşat\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Kürşat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Kürşat\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Kürşat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

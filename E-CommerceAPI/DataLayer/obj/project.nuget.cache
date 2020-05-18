@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+7J9B0HxGCi5u+yevG5LyMIaPAk94n5d/2cmzGNqJMQLNj6ru3SDjeDVHehulRditWV0hd3aExynZClKp+hEnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kürşat\\Desktop\\ShopProjectAPI\\DataLayer\\DataLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kürşat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Kürşat\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Kürşat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

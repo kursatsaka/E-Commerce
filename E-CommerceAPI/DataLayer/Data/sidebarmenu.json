@@ -1,0 +1,22 @@
+
+   [
+    {
+      "id": 1,
+      "name": "Tüm Ürünler",
+	  "componentName" : "ProductComponent"
+    },
+	{
+      "id": 2,
+      "name": "Kategoriler",
+	  "componentName" : "CategoryComponent"
+    },
+    {
+      "id": 3,
+      "name": "Müşteriler",
+	  "componentName" : "CustomerComponent"
+    }
+
+
+  ]
+
+
