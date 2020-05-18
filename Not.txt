@@ -1,0 +1,2 @@
+API projesini çalıştırmak için çalıştırma seçeneklerinden ShopProjectAPI seçmelisiniz. 
+Çünkü UI projesinde envoirenmet.ts dosyasında apı url : localhost://5000 olarak belirtilmiştir. Aksi takdirde projeyi çalıştırmada sorun yaşayabilirsiniz.
