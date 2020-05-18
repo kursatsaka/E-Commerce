@@ -1,0 +1,13 @@
+<nav class="col-md-2 d-none d-md-block bg-light sidebar">
+    <div class="sidebar-sticky">
+        <ul class="nav flex-column">
+            <li class="nav-item" *ngFor="let sidebarItem of sidebar">
+                <a class="nav-link" [class.active]="sidebarItem.componentName === selectedComponent"
+                    (click)="sendToComponentName(sidebarItem.componentName)">
+                    <span data-feather="home"></span>
+                    {{sidebarItem.name}} <span class="sr-only">(current)</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</nav>

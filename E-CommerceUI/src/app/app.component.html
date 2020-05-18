@@ -1,0 +1,22 @@
+<body>
+  <nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
+    <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">E-Ticaret</a>
+    <ul class="navbar-nav px-3">
+      <li class="nav-item text-nowrap">
+       
+      </li>
+    </ul>
+  </nav>
+  <!--Yan taraftaki liste-->
+  <div class="container-fluid">
+    <div class="row">
+      <app-side-bar (changed)="changeComponent($event)"></app-side-bar>
+      <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+
+        <app-dynamic-content-outlet *ngIf="selectedComponent" [componentName]="selectedComponent">
+        </app-dynamic-content-outlet>
+
+      </main>
+    </div>
+  </div>
+</body>
